@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #222;
+  height: 100px;
+  padding: 10px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+  text-align: center;
+}
+
+
+.todo-wrapper {
+  margin: 20px auto 20px 50px;
+  width: 500px;
+  min-height: 400px;
+  border: 10px double rgba(20, 70, 60, 80);
+  padding: 30px;
+  position: relative;
+  float: left;
+}
